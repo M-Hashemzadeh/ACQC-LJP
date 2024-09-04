@@ -6,18 +6,19 @@ Quantum clustering (QC) is widely considered as a powerful method in unsupervise
 
 The SourceCode.rar file includes the MATLAB implementation of the ACQC-LJP:
 
-N. Abdolmaleki, L. Mohammad Khanli, M. Hashemzadeh, and  S. Pourbahrami "ACQC-LJP: Apollonius Circle-based Quantum Clustering using Lennard-Jones Potential"
+N. Abdolmaleki, L. Mohammad Khanli, M. Hashemzadeh, and  S. Pourbahrami "ACQC-LJP: Apollonius Circle-based Quantum Clustering using Lennard-Jones Potential" (Under review in Pattern Recognition Journal)
 
 For running the code you must start with ACQCLJPscript.m as the main script of the ACQC-LJP method.
-The folder of ACQC-LJP contains two folders: dataset0(include synthetic datasets) and dataset1(include 24 real-world datasets).
+The folder of ACQC-LJP contains two sub-folders: dataset0 (including synthetic datasets) and dataset1 (including 24 real-world datasets).
 
 
 
 
 # Condition to use any sources of this project
-Please do not distribute the database or source codes to others until the paper is published and without the authorization of Dr. Mahdi Hashemzadeh (Corresponding author) and Nasim Abdolmaleki.
+Please do not distribute the database or source codes to others until the related paper is published and without the authorization of Dr. Mahdi Hashemzadeh (Corresponding author) and Nasim Abdolmaleki.
 
-Authors’ Emails: n.abdolmaleki@tabrizu.ac.ir(N.Abdolmaleki), hashemzadeh@azaruniv.ac.ir (M. Hashemzadeh).
+Authors’ Emails: n.abdolmaleki@tabrizu.ac.ir (N.Abdolmaleki), hashemzadeh@azaruniv.ac.ir (M. Hashemzadeh).
 
 Also for use of the ACQC code please cite the below papers:
-*N. Abdolmaleki, L. Mohammad, and M. Hashemzadeh, “ACQC : Apollonius Circle-based Quantum Clustering,” vol. 64, no. May, 2022.
+
+N. Abdolmaleki, L. Mohammad Khanli, M. Hashemzadeh, and S. Pourbahrami, "ACQC: Apollonius Circle‐based Quantum Clustering," Journal of Computational Science, vol. 64, p. 101877, 2022/10/01/ 2022, doi: https://doi.org/10.1016/j.jocs.2022.101877.
