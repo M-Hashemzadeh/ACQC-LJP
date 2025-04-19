@@ -17,12 +17,14 @@ The folder of ACQC-LJP contains two sub-folders: dataset0 (including synthetic d
 
 
 
-## Condition to use any sources of this project:
-Please do not distribute the database or source codes to others until the related paper is published and without the authorization of Dr. Mahdi Hashemzadeh (Corresponding author) and Nasim Abdolmaleki.
+## Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
-Authors’ Emails: n.abdolmaleki@tabrizu.ac.ir (N.Abdolmaleki), hashemzadeh@azaruniv.ac.ir (M. Hashemzadeh).
+1) Please cite the following papers:
 
+[1] N. Abdolmaleki, L. Mohammad Khanli, M. Hashemzadeh, and S. Pourbahrami, "ACQC: Apollonius Circle‐based Quantum Clustering," Journal of Computational Science, vol. 64, p. 101877, 2022/10/01/ 2022, doi: https://doi.org/10.1016/j.jocs.2022.101877.
 
-Also for use of the ACQC code please cite the below papers:
+[2] N. Abdolmaleki, L. Mohammad Khanli, M. Hashemzadeh, and S. Pourbahrami, "ACQC-LJP: Apollonius circle-based quantum clustering using Lennard-Jones potential," Pattern Recognition, vol. 161, p. 111342, 2025, doi: https://doi.org/10.1016/j.patcog.2025.111342.
 
-N. Abdolmaleki, L. Mohammad Khanli, M. Hashemzadeh, and S. Pourbahrami, "ACQC: Apollonius Circle‐based Quantum Clustering," Journal of Computational Science, vol. 64, p. 101877, 2022/10/01/ 2022, doi: https://doi.org/10.1016/j.jocs.2022.101877.
+2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
+
+Authors’ Emails: N.abdolmaleki[at]tabrizu.ac.ir (N. Abdolmaleki), l-khanli[at]tabrizu.ac.ir (L. M. Khanli), hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh), and sh.pourbahrami[at]tabrizu.ac.ir (S. Pourbahrami).
